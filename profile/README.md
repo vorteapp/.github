@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 ### You might be the right developer to join our mission if:
 
