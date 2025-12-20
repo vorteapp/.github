@@ -1,19 +1,40 @@
-# Hi there 👋
+## 👋 Hi there
 
-## Our mission:
-Is solving the trust dilemma of running your organization online from the get go. Our abstract, offline-capable cross-platform UI, zero-knowledge cloud service solution, with verifiable per resource IAM system powers Vorte. 
+### Our mission
+Vorte exists to solve the **trust dilemma of running an organization online from day one**.
 
-And we use it to build customer-facing features with Finnish entrepreneurs and businesses in mind. We want to solve every possible problem we can for them in the most intuitive way possible delivering top-tier UX. 
+We are building an abstract, offline-capable, cross-platform UI combined with a **zero-knowledge cloud service** and a **verifiable, per-resource IAM system**. This foundation powers Vorte end-to-end.
 
-Transparent and affordable prices ensure our solution is accessible to all entrepreneurs and those interested in entrepreneurship; we hope to become the go-to privacy-preserving collaborative platform for Finland's entire working force.
+On top of it, we build customer-facing features **with Finnish entrepreneurs and businesses in mind**. The goal is simple but demanding: solve as many real problems as possible in the most intuitive way possible, while delivering top-tier UX.
+
+Transparent and affordable pricing keeps Vorte accessible to everyone interested in entrepreneurship. Our ambition is to become **Finland’s go-to privacy-preserving collaborative platform for the entire working force**.
 
 ---
 
-### You might be the right developer to join our mission if:
+## You might be the right developer to join our mission if you:
 
-* **Foundational Web Standards** – You have a solid grasp of [HTML5, CSS3, and modern JavaScript](https://developer.mozilla.org/en-US/), with an interest in using native browser APIs to write clean, efficient logic.
-* **Modern UI Development** – You’ve had exposure to [Svelte](https://svelte.dev/) and its compiler-based approach to building reactive, high-performance user interfaces.
-* **Data-Driven Logic** – You prefer a programmatic approach to managing and manipulating structured data, focusing on how information flows through an application.
-* **Professional Documentation** – You value maintainable code and use [JSDoc](https://jsdoc.app/) alongside tools like IntelliCode to ensure your logic is well-documented and easy to follow.
-* **Web-Native Apps (PWA)** – You understand the concepts behind [Cross-Platform PWAs](https://www.pwabuilder.com/) and want to learn how service workers and manifests create installable web-applications.
-* **Cloudflare Infrastructure** – You have a basic understanding of [Cloudflare](https://www.cloudflare.com/) for hosting and are curious about deploying applications to the edge.
+- **Foundational Web Standards**  
+  Have a solid grasp of HTML5, CSS3, and modern JavaScript, and prefer native browser APIs for clean, efficient logic.
+
+- **Modern UI Development**  
+  Have experience with Svelte and appreciate compiler-driven, high-performance reactive UIs.
+
+- **Data-Driven Logic**  
+  Think in structured data, care about information flow, and design systems programmatically rather than ad-hoc.
+
+- **Professional Documentation**  
+  Value maintainable code, use JSDoc, and leverage tools like IntelliCode to keep logic readable and explicit.
+
+- **Web-Native Apps (PWA)**  
+  Understand cross-platform PWAs and are interested in how service workers and manifests enable installable web applications.
+
+- **Cloudflare Infrastructure**  
+  Have basic familiarity with Cloudflare hosting and are curious about deploying applications to the edge.
+
+---
+
+## Join the community
+We’re building this openly and collaboratively.
+
+👉 **Join the Vorte developer community on Discord:**  
+https://discord.com/channels/1383043995697025044/1383050594192723978
