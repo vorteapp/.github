@@ -5,7 +5,7 @@ Vorte exists to solve the **trust dilemma of running your mission online from da
 
 We are building an abstract, offline-capable, cross-platform UI combined with a **zero-knowledge cloud service** and a **verifiable, per-resource IAM system**. This foundation powers Vorte end-to-end.
 
-On top of it, we build customer-facing features **with Finnish entrepreneurs and businesses in mind**. The goal is simple but demanding: solve as many real problems as possible in the most intuitive way possible, while delivering top-tier UX.
+On top of it, we build customer-facing features **with Finnish entrepreneurs and businesses in mind**. The goal is simple but demanding: solve as many ground-level problems as possible in the most intuitive way possible, while delivering top-tier UX.
 
 Transparent and affordable pricing keeps Vorte accessible to everyone interested in entrepreneurship. Our ambition is to become **Finland’s go-to privacy-preserving collaborative platform for the entire working force**.
 
