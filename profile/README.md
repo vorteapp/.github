@@ -3,7 +3,7 @@
 ### Our mission
 Vorte exists to solve the **trust dilemma of running your mission online from day one**.
 
-We are building an abstract, offline-capable, cross-platform UI combined with a **zero-knowledge cloud service** and a **verifiable, per-resource IAM system**. This foundation powers Vorte end-to-end.
+We are building an abstract, offline-capable, cross-platform UI combined with a **zero-knowledge cloud service** and a **verifiable, per-resource IAM system**. This foundation will power Vorte end-to-end.
 
 On top of it, we will build customer-facing features **with Finnish entrepreneurs and businesses in mind**. The goal is simple but demanding: solve as many ground-level problems as possible in the most intuitive way possible, while delivering top-tier UX.
 
