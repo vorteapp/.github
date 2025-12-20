@@ -1,7 +1,7 @@
 ## 👋 Hi there
 
 ### Our mission
-Vorte exists to solve the **trust dilemma of running an organization online from day one**.
+Vorte exists to solve the **trust dilemma of running your mission online from day one**.
 
 We are building an abstract, offline-capable, cross-platform UI combined with a **zero-knowledge cloud service** and a **verifiable, per-resource IAM system**. This foundation powers Vorte end-to-end.
 
