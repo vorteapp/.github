@@ -3,11 +3,13 @@
 ### Our mission
 Vorte exists to solve the **trust dilemma of running your mission online from day one**.
 
-We are building an abstract, offline-capable, cross-platform UI combined with a **zero-knowledge cloud service** and a **verifiable, per-resource IAM system**. This foundation will power Vorte end-to-end.
+Our goal is to provide maximum leverage for both starting entrepreneurs and those ready to make a change.
 
-On top of it, we will build customer-facing features **with Finnish entrepreneurs and businesses in mind**. The goal is simple but demanding: solve as many ground-level problems as possible in the most intuitive way possible, while delivering top-tier UX.
+We are building an abstract, offline-capable, cross-platform UI combined with a **zero-knowledge cloud service** and a **verifiable, per-resource IAM system**. Together, this foundation will power Vorte end to end.
 
-Transparent and affordable pricing will make Vorte accessible to everyone interested in entrepreneurship. Our ambition is to become **Finland’s go-to privacy-preserving collaborative platform for the entire working force**.
+On top of this, we are developing customer-facing features **with Finnish entrepreneurs and businesses in mind**. The goal is simple but demanding: solve as many ground-level problems as possible in the most intuitive way, while delivering top-tier UX.
+
+Transparent and affordable pricing will make Vorte accessible to anyone interested in entrepreneurship. Our ambition is to become **Finland’s go-to privacy-preserving collaborative platform for the entire workforce**.
 
 ---
 
@@ -17,10 +19,10 @@ Transparent and affordable pricing will make Vorte accessible to everyone intere
   Have a solid grasp of HTML5, CSS3, and modern JavaScript, and prefer native browser APIs for clean, efficient logic.
 
 - **Modern UI Development**  
-  Have experience with Svelte and appreciate compiler-driven, high-performance reactive UIs.
+  Have experience with Svelte and value compiler-driven, high-performance reactive UIs.
 
 - **Data-Driven Logic**  
-  Think in structured data, care about information flow, and design systems programmatically rather than ad-hoc.
+  Think in structured data, care about information flow, and design systems programmatically rather than ad hoc.
 
 - **Professional Documentation**  
   Value maintainable code, use JSDoc, and leverage tools like IntelliCode to keep logic readable and explicit.
@@ -34,7 +36,7 @@ Transparent and affordable pricing will make Vorte accessible to everyone intere
 ---
 
 ## Join the community
-We’re building this openly for YOU.
+We’re building this openly—for you.
 
 👉 **Join the Vorte developer community on Discord:**  
 https://discord.com/channels/1383043995697025044/1383050594192723978
