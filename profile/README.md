@@ -3,7 +3,7 @@
 ### Our mission
 Vorte is on a path to solve the **trust challenge of running your mission online from day one**.
 
-Our direction is future-focused: to give maximum leverage to new entrepreneurs and to experienced builders who are ready to change how digital work is done.
+Our direction is future-focused: to give maximum leverage to new entrepreneurs and to experienced operators who are ready to change how digital work is done.
 
 We are moving toward an abstract, offline-first, cross-platform UI, paired with a **zero-knowledge cloud service** and a **verifiable, per-resource IAM and collaboration system**. This evolving foundation is what will power Vorte end to end.
 
