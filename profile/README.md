@@ -8,11 +8,13 @@ Our direction is future-focused: to give maximum leverage to new entrepreneurs a
 We are moving toward an offline-first, cross-platform UI, paired with a **zero-knowledge cloud service** and a **verifiable, per-resource IAM and collaboration system**. This evolving foundation is what will power Vorte end to end.
 
 [PROJECT REPOSITORY](https://github.com/z-base)
+
 [TECHNICAL LEAD: Jori Lehtinen](https://www.linkedin.com/in/jortsupetterson/)
 
 On top of it, we are shaping customer-facing tools **with Finnish entrepreneurs and businesses in mind**. The goal is demanding but clear: remove as many ground-level frictions as possible through intuitive design and genuinely high-quality UX.
 
 [DESIGN FILES (Figma)](https://www.figma.com/design/xToDUKhrYVCVezqKOvR1L8/VORTE?node-id=0-1&p=f&t=zi56MoQjAhDnTF1Y-0)
+
 [DESIGN LEAD: Jenna Lehtinen](https://www.linkedin.com/in/jennalehtinen/)
 
 With transparent and affordable pricing, Vorte is meant to remain accessible to anyone interested in entrepreneurship. Our long-term ambition is to become **Finland’s leading privacy-preserving collaborative platform for the entire workforce**.
