@@ -39,4 +39,4 @@ With transparent and affordable pricing, Vorte is meant to remain accessible to 
 We’re building this in the open, together.
 
 👉 **Join the Vorte community on Discord:**  
-https://discord.com/channels/1383043995697025044/1383050594192723978
+[https://discord.gg/2Qp7qxmU](https://discord.gg/2Qp7qxmU)
