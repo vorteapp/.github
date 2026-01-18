@@ -5,7 +5,7 @@ Vorte is about making office tasks genuinely easier through an intuitive UI and 
 
  We want to give maximum leverage to new entrepreneurs and to established businesses ready to change how digital work is done.
 
-Currently working toward an offline-first, cross-platform UI, paired with a **zero-knowledge cloud service** and a **verifiable, per-resource IAM and collaboration system**. This evolving foundation is what will power Vorte end to end.
+Currently working toward an offline-first, cross-platform frontend, paired with a **zero-knowledge cloud service** and a **verifiable, per-resource IAM and collaboration system**. This evolving foundation is what will power Vorte end to end.
 
 [SIBLING PROJECT](https://github.com/z-base)
 
