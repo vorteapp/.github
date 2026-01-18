@@ -5,7 +5,7 @@ Vorte is on a path to solve the **trust challenge of running your mission online
 
 Our direction is future-focused: to give maximum leverage to new entrepreneurs and to established businesses ready to change how digital work is done.
 
-We are moving toward an abstract, offline-first, cross-platform UI, paired with a **zero-knowledge cloud service** and a **verifiable, per-resource IAM and collaboration system**. This evolving foundation is what will power Vorte end to end. [PROJECT](https://github.com/z-base)
+We are moving toward an offline-first, cross-platform UI, paired with a **zero-knowledge cloud service** and a **verifiable, per-resource IAM and collaboration system**. This evolving foundation is what will power Vorte end to end. [PROJECT](https://github.com/z-base)
 
 On top of it, we are shaping customer-facing tools **with Finnish entrepreneurs and businesses in mind**. The goal is demanding but clear: remove as many ground-level frictions as possible through intuitive design and genuinely high-quality UX.
 
