@@ -1,7 +1,7 @@
 ## 👋 Welcome
 
 ### Our mission as developers of Vorte
-Vorte is on a path to solve the **trust challenge of running your mission online from day one**.
+Vorte is about making office tasks genuinely easier through an intuitive UI and reliable automation on a platform you can trust to respect your privacy.
 
 Our direction is future-focused: to give maximum leverage to new entrepreneurs and to established businesses ready to change how digital work is done.
 
