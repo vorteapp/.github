@@ -3,7 +3,7 @@
 ### Our mission as developers of Vorte
 Vorte is about making office tasks genuinely easier through an intuitive UI and reliable automation on a platform you can trust to respect your privacy.
 
-Our direction is future-focused: to give maximum leverage to new entrepreneurs and to established businesses ready to change how digital work is done.
+ We want to give maximum leverage to new entrepreneurs and to established businesses ready to change how digital work is done.
 
 We are moving toward an offline-first, cross-platform UI, paired with a **zero-knowledge cloud service** and a **verifiable, per-resource IAM and collaboration system**. This evolving foundation is what will power Vorte end to end.
 
