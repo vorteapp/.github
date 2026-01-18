@@ -33,7 +33,7 @@ With transparent and affordable pricing, Vorte is meant to remain accessible to 
   Design systems around structured data, clear information flow, and intentional architecture rather than ad hoc solutions.
 
 - **Professional Documentation Practices**  
-  Care about long-term maintainability, use JSDoc, and rely on tools like IntelliCode to keep intent explicit.
+  Care about long-term maintainability, use typescript, JSDoc, and rely on tools like IntelliCode to keep intent explicit.
 
 - **Web-Native Applications (PWA)**  
   Understand cross-platform PWAs and are interested in how service workers and manifests enable installable, resilient apps.
