@@ -24,7 +24,7 @@ With transparent and affordable pricing, Vorte is meant to remain accessible to 
 ## You might be the right developer to join our mission if you:
 
 - **Foundational Web Standards**  
-  Are fluent in HTML5, CSS3, and modern JavaScript, and prefer native browser APIs over unnecessary abstractions.
+  Are fluent in HTML5, CSS3, modern JavaScript, and prefer native browser APIs over abstract runtimes.
 
 - **Modern UI Development**  
   Have hands-on experience with Svelte and value compiler-driven, high-performance reactive interfaces.
@@ -33,13 +33,19 @@ With transparent and affordable pricing, Vorte is meant to remain accessible to 
   Design systems around structured data, clear information flow, and intentional architecture rather than ad hoc solutions.
 
 - **Professional Documentation Practices**  
-  Care about long-term maintainability, use typescript, JSDoc, and rely on tools like IntelliCode to keep intent explicit.
+  Care about long-term maintainability, use TypeScript, JSDoc, and rely on tools like IntelliCode to keep intent explicit.
 
 - **Web-Native Applications (PWA)**  
   Understand cross-platform PWAs and are interested in how service workers and manifests enable installable, resilient apps.
 
 - **Cloudflare Infrastructure**  
   Have basic familiarity with Cloudflare and are curious about deploying privacy-aware applications at the edge.
+  
+- **Hono Backend Framework**  
+  Are familiar with Express.js (similar) or Hono.js.
+
+- **OpenAPI Specifications**  
+  Are familiar with OpenAPI as a concept and understand the value of a well-defined API schema.
 
 ---
 
