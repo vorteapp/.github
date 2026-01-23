@@ -46,6 +46,9 @@ With transparent and affordable pricing, Vorte is meant to remain accessible to 
 
 - **OpenAPI Specifications**  
   Are familiar with OpenAPI as a concept and understand the value of a well-defined API schema.
+  
+- **Tooling & Automation**  
+  Use Node.js for local tooling, build pipelines, scripting, and package workflows.
 
 ---
 
