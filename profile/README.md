@@ -5,9 +5,9 @@ Vorte is about making office tasks genuinely easier through an intuitive UI and 
 
  We want to give maximum leverage to new entrepreneurs and to established businesses ready to change how digital work is done.
 
-Vorte will be powered by **z-base**, a separate project that was created due to the high technical and architectural requirements Vorte demands.
+Vorte will be powered by **Sovereignbase**, a separate project that was created due to the high technical and architectural requirements Vorte demands.
 
-[SIBLING PROJECT](https://github.com/z-base)
+[SIBLING PROJECT](https://github.com/sovereignbase)
 
 [TECHNICAL LEAD: Jori Lehtinen](https://www.linkedin.com/in/jortsupetterson/)
 
